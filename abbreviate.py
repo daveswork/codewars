@@ -29,3 +29,9 @@ def abbreviate(s):
         word_count += 1
     return ''.join(test)
 
+'''
+doggy; is-monolithic; on; mat-sat; double-barreled. the; : 'd3y; i0s-m8c; on; m1t-s1t; d4e-b6d. the;' 
+should equal 'd3y; is-m8c; on; mat-sat; d4e-b6d. the;
+'''
+
+
